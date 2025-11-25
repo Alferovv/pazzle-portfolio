@@ -1,4 +1,4 @@
 course-1/
--homeworks
+#homeworks
 -practices
 -projects
